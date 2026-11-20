@@ -36,3 +36,5 @@
 .logout-form{margin:0;flex:none}.logout-form button{white-space:nowrap;font-size:14px}@media(max-width:760px){.logout-form{margin-left:auto;order:0}.header nav{order:1}}
 
 .fridge-amount-heading{display:flex;align-items:center;gap:8px;margin-top:18px;font-size:14px;font-weight:600}.fridge-amount-fields .field{min-width:0;margin-top:8px}.fridge-settings .add-ingredient{width:100%;margin-top:14px}.ingredients li{align-items:baseline}.ingredients li>span{min-width:0}.ingredients strong{white-space:normal;text-align:right;max-width:55%;font-size:14px;flex-shrink:0}
+
+.ingredient-section{margin:20px 0 24px}.ingredient-section h4{font-size:16px;font-weight:700;margin:0 0 6px;color:var(--green);border-bottom:2px solid #dce5d4;padding-bottom:8px}.ingredient-section .ingredients{margin:0}.ingredient-section:last-child{margin-bottom:8px}
